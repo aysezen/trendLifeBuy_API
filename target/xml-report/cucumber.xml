@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="4.771">
+    <testcase classname="You can log in to the system with your email and password" name="_2" time="4.036">
+        <system-out><![CDATA[* Api kullanicisi "api, login" path parametreleri set eder..................passed
+]]></system-out>
+    </testcase>
+</testsuite>
