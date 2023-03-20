@@ -3,3 +3,4 @@
 
    Scenario:
      * Api kullanicisi "api, login" path parametreleri set eder
+     * Api kullanicisi email ve password girer.
